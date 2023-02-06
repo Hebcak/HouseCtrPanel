@@ -1,4 +1,5 @@
 import GUI.MainGUI;
+import light.LightManager;
 
 import javax.swing.*;
 
