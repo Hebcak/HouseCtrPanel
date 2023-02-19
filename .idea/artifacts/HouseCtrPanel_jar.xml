@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HouseCtrPanel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HouseCtrPanel_jar</output-path>
+    <root id="archive" name="HouseCtrPanel.jar">
+      <element id="module-output" name="HouseCtrPanel" />
+    </root>
+  </artifact>
+</component>
