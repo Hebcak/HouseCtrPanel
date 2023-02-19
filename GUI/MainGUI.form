@@ -32,20 +32,20 @@
             <children>
               <component id="2f008" class="javax.swing.JLabel" binding="TimeLabel">
                 <constraints>
-                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
                   <background color="-10855846"/>
-                  <font name="Tahoma" size="80" style="1"/>
+                  <font name="Tahoma" size="50" style="1"/>
                   <foreground color="-65536"/>
-                  <text value="23:35"/>
+                  <text value="Status"/>
                 </properties>
               </component>
             </children>
           </grid>
           <component id="1fad9" class="javax.swing.JButton" binding="menuButton">
             <constraints>
-              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+              <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
               <background color="-12171706"/>
@@ -67,7 +67,7 @@
         <children>
           <component id="cb8fe" class="javax.swing.JButton" binding="lightButton">
             <constraints>
-              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="6" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
             </constraints>
             <properties>
               <background color="-12171706"/>
@@ -82,9 +82,9 @@
           </vspacer>
         </children>
       </grid>
-      <component id="53c2b" class="javax.swing.JSeparator">
+      <component id="53c2b" class="javax.swing.JSeparator" binding="SeparatorV">
         <constraints>
-          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="6" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+          <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="6" hsize-policy="0" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
           <orientation value="1"/>

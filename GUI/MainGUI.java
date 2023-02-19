@@ -15,6 +15,7 @@ public class MainGUI {
     private JButton menuButton;
     private JLabel TimeLabel;
     private JButton lightButton;
+    private JSeparator SeparatorV;
 
     //Light variables
     public static String LED_SVETLO_IP = "192.168.178.31";
